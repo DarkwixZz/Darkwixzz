@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dark</h1>
+<h1 align="center">Hi 👋, I'm Adwaith</h1>
 
 
 - 🌱 I’m currently learning **Rust, Go**
